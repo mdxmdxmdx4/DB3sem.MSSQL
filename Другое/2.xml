@@ -1,0 +1,16 @@
+﻿<Список_преподавателей>
+  <t1>
+    <AUDITORIUM>100-3a              </AUDITORIUM>
+    <AUDITORIUM_CAPACITY>90</AUDITORIUM_CAPACITY>
+    <t2>
+      <AUDITORIUM_TYPE>ЛК        </AUDITORIUM_TYPE>
+    </t2>
+  </t1>
+  <t1>
+    <AUDITORIUM>201-4               </AUDITORIUM>
+    <AUDITORIUM_CAPACITY>90</AUDITORIUM_CAPACITY>
+    <t2>
+      <AUDITORIUM_TYPE>ЛК        </AUDITORIUM_TYPE>
+    </t2>
+  </t1>
+</Список_преподавателей>
